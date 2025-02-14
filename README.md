@@ -121,3 +121,28 @@ Use this script responsibly. The author is not liable for any misuse or damages 
 
 **Exposed File Finder** is a lightweight and efficient Bash script designed to enhance web application security by identifying exposed files in HTML, JavaScript, and JSON code. It helps developers and security researchers uncover potential vulnerabilities and sensitive information in websites or hosted GitHub repositories. This tool supports scanning individual URLs, processing bulk URL lists, and saving results for further analysis, making it an essential addition to any security toolkit.
 
+---
+
+## 🌟 Let's Connect!
+
+Hello, Hacker! 👋 We'd love to stay connected with you. Reach out to us on any of these platforms and let's build something amazing together:
+
+🌐 **Website:** [https://yogsec.github.io/yogsec/](https://yogsec.github.io/yogsec/)  
+📜 **Linktree:** [https://linktr.ee/yogsec](https://linktr.ee/yogsec)  
+🔗 **GitHub:** [https://github.com/yogsec](https://github.com/yogsec)  
+💼 **LinkedIn (Company):** [https://www.linkedin.com/company/yogsec/](https://www.linkedin.com/company/yogsec/)  
+📷 **Instagram:** [https://www.instagram.com/yogsec.io/](https://www.instagram.com/yogsec.io/)  
+🐦 **Twitter (X):** [https://x.com/yogsec](https://x.com/yogsec)  
+👨‍💼 **Personal LinkedIn:** [https://www.linkedin.com/in/bug-bounty-hunter/](https://www.linkedin.com/in/bug-bounty-hunter/)  
+📧 **Email:** abhinavsingwal@gmail.com
+
+---
+
+## ☕ Buy Me a Coffee
+
+If you find our work helpful and would like to support us, consider buying us a coffee. Your support keeps us motivated and helps us create more awesome content. ❤️
+
+☕ **Support Us Here:** [https://buymeacoffee.com/yogsec](https://buymeacoffee.com/yogsec)
+
+---
+
